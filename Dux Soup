@@ -1,0 +1,10 @@
+Workflow needs to be automated can you please help. 
+1.	Visit / Connect profiles with based on search criteria in LinkedIn or from URL
+a.	Sample introduction message
+2.	Send a follow up message in LinkedIn once they accept the connection request
+3.	Get email ids of people from people who accepted the connection 
+a.	In excel/ googlsheets/ airtable
+4.	Send custom emails to people who accepted, and we have emails
+5.	Send follow up emails for people who didn’t respond to first email.
+6.	Send follow up email in LinkedIn if we didn’t get response from 2 emails
+7.	Get status updates on all the steps above.
